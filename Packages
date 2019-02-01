@@ -1,0 +1,32 @@
+Package: com.bytafont.bytafont3
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: Mikasa <nami_san@outlook.com>
+Depends: firmware (>= 11), unzip, mobilesubstrate
+Filename: ./debs/com.bytafont.bytafont3_3.5_iphoneos-arm.deb
+Size: 779640
+MD5sum: ce5fc79edb29efd057568d7a10e5beb5
+SHA1: 64aef98f883279c93c1611eabc29d03ab44af72a
+SHA256: d9dd82962695ce0fa427d6586b86ca44f643c7de90a028992cd4d2892afdd0c5
+Section: System
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Author: BytaFont.com <info@bytafont.com>
+Depiction: http://repo.bytafont.com/bytafont_depiction
+Name: BytaFont 3
+
+Package: com.olxios.noshareplz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: olxios
+Installed-Size: 136
+Depends: mobilesubstrate, firmware(>=10.0)
+Filename: ./debs/com.olxios.noshareplz_1.0_iphoneos-arm.deb
+Size: 3836
+MD5sum: 66ab55cd641ccc2f790ed798cbb9c7be
+SHA1: 913eab6fe65ae939bd25d0b81f53f19008cadca3
+SHA256: a9e1cb335b750b9b4c5afffb34f3627b3393eacbdb2d110032cfa1d8f4e35164
+Section: Tweaks
+Description: Removes iOS 10 share menu
+Author: olxios
+Name: NoSharePlz
+
